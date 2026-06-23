@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>@yield('title', 'Adoption Advisory') — Consultant Workbench</title>
+<title>@yield('title', 'Adoption Advisory') Workbench</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
@@ -127,10 +127,6 @@ body{background:var(--body-bg);font-family:'Segoe UI',system-ui,sans-serif;margi
 
 <div class="main-wrap">
   @yield('content')
-</div>
-
-<div class="run-banner">
-  <div class="track">Refactored Workbench based on Micro-Internship with <b>Fit-Design BV (Belgium)</b></div>
 </div>
 
 <div id="toast-area"></div>
