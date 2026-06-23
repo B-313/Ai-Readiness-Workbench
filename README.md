@@ -1,19 +1,13 @@
-# AI Adoption Advisory — Consultant Workbench
+# AI Adoption Advisory Workbench
 
-A self-contained admin workbench for an AI & digital-adoption consultancy. It lets a consultant publish their services, manage an SME client database, send AI Readiness Scan invitations, track responses, and benchmark each client's AI adoption against public sector data. Map those insights onto
-the government's policy-development phases to surface the support available at each stage.
-
-> Refactored Workbench based on a micro-internship via E³UDRES² Talent Funnel with Fit-Design BV (Belgium).
-> The original engagement explored an integrated maturity assessment for SMEs; Lean Six Sigma and AI implementation.
-
+A self-contained admin workbench for an AI & digital-adoption. Enterprise solution to manage an client database, send invitations, track responses, and benchmark each client's scores against public sector data. Map those insights onto the government's policy-development phases to surface the support available at each stage.
 ---
 
 ## Ideology
 
 The guiding idea: The workbench turns scattered outreach and survey data into a single, honest picture:
-
 - Every adoption score is benchmarked against a published figure for  the client's sector.
--  Analysis of 10-minute drives the customer record, response funnel, insights, and the recommended next step.
+- Analyse customer record, response funnel, insights, and the recommended next step.
 - Each client is placed on a policy-development path with the concrete, publicly-available support for that phase.
 - The prototype stores everything in the browser. No accounts/servers, this is appropriate for SME and  confidentiality-sensitive practice.
 
@@ -226,8 +220,6 @@ SOFTWARE.
 ---
 
 ### Acknowledgements
-
-Built as a porfolio project based on a micro-internship with **Fit-Design BV (Belgium)**. 
 Benchmark and policy frameworks are public UK Government publications (gov.uk). 
 No proprietary material is reproduced.
 Ai paired programming (Claude)
